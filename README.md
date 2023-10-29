@@ -7,8 +7,11 @@ ShopSquare is an e-commerce platform inspired by retail giants like Walmart. It 
 Stakeholders:
 
 Administrator
+
 Vendor
+
 Customer
+
 
 Features:
 
@@ -18,5 +21,7 @@ Customers browse, purchase, and manage accounts.
 Additional Features:
 
 Shopping Cart
+
 Product Rating and Reviews
+
 Order Tracking
