@@ -9,9 +9,10 @@ Stakeholders:
 Administrator
 Vendor
 Customer
+
 Features:
 
-Administrator manages the platform.
+The administrator manages the platform.
 Vendors list products and view purchase history.
 Customers browse, purchase, and manage accounts.
 Additional Features:
